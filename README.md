@@ -43,7 +43,7 @@ We value your opinion and are constantly striving to improve our weather forecas
 
 ## Deployed links
 
-* [Github Pages]()
+* [Github Pages](https://fabri-tech.github.io/Weather-Forecast-API-Fabrizio-Trevino/)
 
 * [Github Repository](https://github.com/Fabri-Tech?tab=repositories)
 
