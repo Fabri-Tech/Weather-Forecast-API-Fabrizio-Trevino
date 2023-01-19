@@ -13,7 +13,7 @@
 
 This weather dashboard is a dynamic and user-friendly web application that allows users to easily access current weather and forecast information for any city. The application uses OpenWeather API to fetch weather data and displays the weather, temperature, humidity, and wind speed for today and the next 5 days, as well as generating a search history to keep track of the cities searched. It's easy to use, simply enter the name of the city in the search bar, and the weather information will be displayed in a clear and visually appealing format. It's perfect for anyone who wants quick and easy access to weather information.
 
-![image alt text]()
+![Webpage](./assets/webpage.PNG)
 
 ## Requirements
 
